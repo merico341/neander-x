@@ -4,8 +4,8 @@ atividade da faculdade / college work
 Um programa simples em Assembly Neander-X que verifica se um número inserido pelas alavancas é par ou ímpar e exibe o resultado no visor.
 
 5 Programas simples em Assembly no Neander-X:
-- [Soma de 3 numeros](/Soma.asm)
-- [Subtração de 2 numeros](/sub.asm)
+- [Soma de 3 numeros](/soma.asm)
+- [Subtração de 2 numeros](/Sub.asm)
 - [Multiplicação de 2 numeros](mult.asm)
 - [Contador regressivo](count.asm)
 - [Par ou impar, usando o visor e alavancas](imparoupar.asm)
