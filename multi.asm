@@ -1,6 +1,6 @@
 ;---------------------------------------------------
-; Programa: Américo Pereira da Cruz Neto
-; Autor: multiplicação
+; Programa: multiplicação
+; Autor: Américo Pereira da Cruz Neto
 ; Data: 30-05-2025
 ;---------------------------------------------------
 INICIO: LDA ZERO    ; adiciona o valor de ZERO no acumulador
