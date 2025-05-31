@@ -5,7 +5,7 @@ Um programa simples em Assembly Neander-X que verifica se um número inserido pe
 
 5 Programas simples em Assembly no Neander-X:
 - [Soma de 3 numeros](/soma.asm)
-- [Subtração de 2 numeros](/Sub.asm)
+- [Subtração de 2 numeros](/sub.asm)
 - [Multiplicação de 2 numeros](mult.asm)
 - [Contador regressivo](count.asm)
 - [Par ou impar, usando o visor e alavancas](imparoupar.asm)
